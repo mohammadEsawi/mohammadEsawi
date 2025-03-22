@@ -61,12 +61,6 @@
 <br clear="both">
 
 
-###
-
-
-
-###
-
-
+<img src="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/snake.svg" alt="Snake animation" />
 
 ###
