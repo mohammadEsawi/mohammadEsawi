@@ -6,6 +6,21 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadEsawi&show_icons=true&locale=en&layout=compact" alt="mohammadEsawi" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&locale=en" alt="mohammadEsawi" /></p>
 </div>
+<h3 align="left">GitHub Stats</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadEsawi&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
+</picture>
+
 
 ---
 
@@ -61,20 +76,5 @@
 </div>
 
 ---
-
-<h3 align="left">GitHub Stats</h3>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadEsawi&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
-</picture>
 
 
