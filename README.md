@@ -77,9 +77,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
 </picture>
 
----
 
-<h3 align="left">My Stats</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohammadEsawi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
