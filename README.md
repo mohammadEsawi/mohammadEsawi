@@ -1,80 +1,72 @@
-<h2 align="left">Hi 👋! My name is Mohammad Murad Esawi and I'm a Computer Engineering student at An-Najah National University.</h2>
+<h1 align="center">Hi 👋, I'm Mohammad Murad Esawi</h1>
+<h3 align="center">Computer Engineering Student | Aspiring Full-Stack Developer</h3>
 
-### 
-
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadEsawi&show_icons=true&locale=en&layout=compact" alt="mohammadEsawi" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&locale=en" alt="mohammadEsawi" /></p>
-</div>
-<h3 align="left">GitHub Stats</h3>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadEsawi&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohammadEsawi/mohammadEsawi/output/github-snake.svg" />
-</picture>
-
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadEsawi&color=green&style=flat-square)
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlhdzIzdGNndnVrM3VyZ3VzeGIzbWl0bXFneHcxOHhjdGluYmg5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-<h3 align="left">About Me</h3>
-<p align="left">
-  I am a dedicated Computer Engineering student with a passion for developing innovative solutions. I specialize in web development and enjoy exploring new technologies in cloud computing, DevOps, and software engineering. I continuously work on improving my skills through projects and collaborative learning.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-murad-esawi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:esawiaburakan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/mohammadEsawi/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</div>
+### 🚀 Technical Proficiencies
+
+**Frontend Development**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend & Databases**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-<h3 align="left">Connect with Me</h3>
-<div align="left">
-  <a href="https://www.instagram.com/mhmd_3sawi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  
-  <a href="mailto:esawiaburakan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mohammad-murad-esawi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  
-  <a href="https://www.facebook.com/mhmdEsawi003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-</div>
+### 📚 Currently Exploring
+- Cloud Architecture & Microservices
+- Machine Learning Fundamentals
+- System Design Principles
 
 ---
 
+### 📈 GitHub Analytics
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohammadEsawi&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadEsawi&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadEsawi&layout=compact&theme=dracula&langs_count=6" />
+</p>
+
+---
+
+### 🏆 Achievements
+- Dean's List Recipient (2022-2023)
+- Finalist in University Hackathon 2023
+- Completed AWS Cloud Practitioner Certification
+
+---
+
+### 📫 Let's Connect!
+- 💼 Professional: [LinkedIn](https://www.linkedin.com/in/mohammad-murad-esawi)
+- 📧 Email: esawiaburakan@gmail.com
+- 💻 LeetCode: [mohammadEsawi](https://leetcode.com/u/mohammadEsawi/)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mohammadEsawi&color=blueviolet&style=flat-square)
