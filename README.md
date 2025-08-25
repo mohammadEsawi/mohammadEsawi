@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Murad Esawi</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Computer Engineering  | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-murad-esawi/">
