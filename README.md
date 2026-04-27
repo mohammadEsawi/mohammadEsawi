@@ -55,14 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadEsawi&layout=compact&theme=dracula&langs_count=6" />
 </p>
 
----
 
-### 🏆 Achievements
-- Dean's List Recipient (2022-2023)
-- Finalist in University Hackathon 2023
-- Completed AWS Cloud Practitioner Certification
-
----
 
 ### 📫 Let's Connect!
 - 💼 Professional: [LinkedIn](https://www.linkedin.com/in/mohammad-murad-esawi)
